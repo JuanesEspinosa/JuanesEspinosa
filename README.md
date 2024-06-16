@@ -18,7 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanesEsp1&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanesEsp1&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trofeos de GitHub
 ![](https://github-profile-trophy.vercel.app/?username=JuanesEsp1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=JuanesEsp1&icon=2&color=6)](https://visitcount.itsvg.in)
